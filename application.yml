@@ -4,7 +4,7 @@ spring:
     username: root
     password: 1234
     driver-class-name: com.mysql.jdbc.Driver
-  jpa:
-    hibernate:
-      naming:
-        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+#   jpa:
+#     hibernate:
+#       naming:
+#         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
